@@ -4,7 +4,8 @@
 - [x] Advanced debugging and reverse engineering
 - [ ] Animal husbandry by tutorials
 - [ ] Beginning tree surgery
-- [ ] CVS by tutorials
+- [x] CVS by tutorials
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
 - [ ] Learning tutorial by tutorial
+- [ ] 50 shades of gray
